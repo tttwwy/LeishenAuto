@@ -22,5 +22,5 @@ jobs:
         run: |
           node main.js
         env:
-          LEISHEN_USERNAME: "18646351016"
-          LEISHEN_PASSWORD: "Lxiaose123"
+          LEISHEN_USERNAME: ${{ vars.USER_NAME }}
+          LEISHEN_PASSWORD: ${{ vars.PASSWORD }}
