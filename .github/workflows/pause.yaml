@@ -23,4 +23,4 @@ jobs:
           node main.js
         env:
           LEISHEN_USERNAME: "18646351016"
-          LEISHEN_PASSWORD: "e12448b9de465532ec79acafc42cc1aa"
+          LEISHEN_PASSWORD: "Lxiaose123"
